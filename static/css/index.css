@@ -133,5 +133,16 @@ body {
   font-size: smaller;
 }
 
+.shadow-box {
+  /* 水平居中 */
+  /* background-color: #FFFFFF; */
+  margin: 100px auto;
+  width: 75% ;
+  /* background-color: #f0f0f0; */
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 50px;
+}
 
 
